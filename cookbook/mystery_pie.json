@@ -1,0 +1,62 @@
+{
+  "name": "Mystery Pie",
+  "ingredients": [
+    {
+      "quantity": "1/4 cup",
+      "name": "butter",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1/2 cup",
+      "name": "sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1/2 tsp",
+      "name": "cinnamon",
+      "type": "Spice"
+    },
+    {
+      "quantity": "1/2 tsp",
+      "name": "cloves",
+      "type": "Spice"
+    },
+    {
+      "quantity":"1/4 tsp",
+      "name": "salt",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "dark corn syrup",
+      "type": "Baking"
+    },
+    {
+      "quantity": "3",
+      "name": "eggs",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "quick oats",
+      "type": "misc"
+    },
+    {
+      "quantity": "1",
+      "name": "unbaked 9-inch pie shell",
+      "type": "misc"
+    }
+  ],
+  "steps": [
+    "Blend until smooth.",
+    "Bake for 60 minutes at 350°F.",
+    "Test with knife."
+  ],
+  "timers": [
+    0,
+    60,
+    0
+  ],
+  "yield": "1 pie",
+  "image": ""
+}
