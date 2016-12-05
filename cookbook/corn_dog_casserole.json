@@ -1,0 +1,82 @@
+{
+  "name": "Corn Dog Casserole",
+  "ingredients": [
+    {
+      "quantity": "2 cups",
+      "name": "thinly sliced celery",
+      "type": "Produce"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "name": "butter",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1 1/2 pounds",
+      "name": "hot dogs",
+      "type": "Meat"
+    },
+    {
+      "quantity": "2",
+      "name": "eggs",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "1 1/2 cup",
+      "name": "milk",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "rubbed sage",
+      "type": "Herb"
+    },
+    {
+      "quantity": "1/4 tsp",
+      "name": "pepper",
+      "type": "Spice"
+    },
+    {
+      "quantity": "2 packages (8 1/2 oz each)",
+      "name": "corn bread/muffin mix",
+      "type": "Misc"
+    },
+    {
+      "quantity": "2 cups",
+      "name": "shredded sharp cheddar cheese",
+      "type": "Dairy"
+    }
+  ],
+  "steps": [
+    "In a skillet, saute celery in butter for 5 minutes",
+    "Add onions, saute for 5 minutes.",
+    "Place in a large bowl; set aside.",
+    "Cut hot dogs lengthwise into quarters, then cut into thirds.",
+    "In the same skillet, saute the hot dogs for 5 minutes or until lightly browned; add to vegetables.",
+    "Set aside 1 cup.",
+    "In a large bowl, combine eggs, milk, sage and pepper.",
+    "Add the remaining hot dog mixture.",
+    "Stir in corn bread mixes.",
+    "Add 1-1/2 cups of cheese.",
+    "Spread into a shallow 3-qt. baking dish.",
+    "Top with reserved hot dog mixture and remaining cheese.",
+    "Bake, uncovered, at 400°F for 30 mintues or until golden brown."
+  ],
+  "timers": [
+    5,
+    5,
+    0,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    30
+  ],
+  "yield": "12 servings",
+  "image": ""
+}

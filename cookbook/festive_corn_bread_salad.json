@@ -1,0 +1,68 @@
+{
+  "name": "Festive Corn Bread Salad",
+  "ingredients": [
+    {
+      "quantity": "5 cups",
+      "name": "cubed corn bread or 6 corn bread muffins",
+      "type": "Misc"
+    },
+    {
+      "quantity": "3 cups",
+      "name": "diced fresh tomatoes",
+      "type": "Produce"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "diced sweet onion",
+      "type": "Produce"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "diced green pepper",
+      "type": "Produce"
+    },
+    {
+      "quantity": "1 pound",
+      "name": "sliced bacon, cooked and crumbled",
+      "type": "Meat"
+    },
+    {
+      "quantity": "1/4 cup",
+      "name": "sweet pickle relish",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "mayonnaise",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1/4 cup",
+      "name": "sweet pickle juice",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1",
+      "name": "shredded parmesan cheese",
+      "type": "Dairy"
+    }
+  ],
+  "steps": [
+    "Place corn bread cubes in a large salad bowl (or crumble muffins into bowl).",
+    "Combine tomatoes, onion, green pepper, bacon, and relish; add to corn bread.",
+    "Combine mayonnaise and pickle juice; mix well.",
+    "Pour over vegetables.",
+    "Sprinkle with parmesan cheese.",
+    "Chill until ready to serve."
+  ],
+  "timers": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "yield": "10-12 servings",
+  "image": ""
+}

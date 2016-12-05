@@ -1,0 +1,93 @@
+{
+  "name": "Chocolate Cookie Muffins",
+  "ingredients": [
+    {
+      "quantity": "1 3/4 cup",
+      "name": "all-purpose flour",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1/4 cup",
+      "name": "sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "3 tsp",
+      "name": "baking powder",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1/3 cup",
+      "name": "butter, cold",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "milk",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "16",
+      "name": "cream-filled chocolate sandwich cookies, coarsely chopped",
+      "type": "Misc"
+    },
+    {
+      "quantity": "3 tsp",
+      "name": "topping: all-purpose flour",
+      "type": "Baking"
+    },
+    {
+      "quantity": "3 tsp",
+      "name": "topping: sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "5",
+      "name": "topping: cream-filled chocolate sandwich cookies, finely crushed",
+      "type": "Misc"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "name": "butter, cold",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "vanilla chips",
+      "type": "Misc"
+    },
+    {
+      "quantity": "1 tablespoon",
+      "name": "shortening",
+      "type": "Baking"
+    }
+  ],
+  "steps": [
+    "In a large bowl, combine flour, sugar and baking power.",
+    "Cut in butter until mixture resembles coarse crumbs.",
+    "Beat egg and milk; stir into dry ingredients just until moistened.",
+    "Fold in chopped cookies.",
+    "Fill greased muffin cups two-thirds full.",
+    "For topping, combine the flour, sugar and crushed cookies.",
+    "Cut in the butter until crumbly; sprinkle about 1 tablespoon over each muffin.",
+    "Bake at 400°F for 16-18 minutes or until muffins test done.",
+    "Cool for 5 minutes before removing from panto a wire rack.",
+    "In a heavy saucepan over low heat, melt vanilla chips and shortening until smooth.",
+    "Drizzle over cooled muffins."
+  ],
+  "timers": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    16,
+    5,
+    0,
+    0
+  ],
+  "yield": "12",
+  "image": ""
+}
