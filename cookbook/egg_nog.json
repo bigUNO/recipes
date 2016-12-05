@@ -1,0 +1,56 @@
+{
+  "name": "Egg Nog",
+  "ingredients": [
+    {
+      "quantity": "12",
+      "name": "eggs",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "confectionary sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "2 cups",
+      "name": "whole milk",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "2 cups",
+      "name": "whipping cream",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "2 cups",
+      "name": "light rum",
+      "type": "Drinks"
+    },
+    {
+      "quantity": "2 cups",
+      "name": "dark rum",
+      "type": "Drinks"
+    }
+  ],
+  "steps": [
+    "Separate the yolks from the egg whites.",
+    "Mix all 12 yolks with the confectionary sugar, this works best with an egg beater.",
+    "Next place the mix into an empty gallon milk jug.",
+    "Add the milk and rum and shake well.",
+    "Let the first part sit for atleast 3 hours uncapped in the fridge.",
+    "Add the whipping cream and shake again.",
+    "Serve immediately.",
+    "This eggnog will last about 5-6 days."
+  ],
+  "timers": [
+    0,
+    0,
+    0,
+    180,
+    0,
+    0,
+    0
+  ],
+  "yield": "10-12 servings",
+  "imageURL": ""
+}
