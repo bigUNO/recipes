@@ -1,2 +1,2 @@
-# recipes
+# Cookbook
 My recipes in JSON
