@@ -1,0 +1,101 @@
+{
+  "name": "Raspberry Trifle",
+  "ingredients": [
+    {
+      "quantity": "3 tablespoons",
+      "name": "cornstarch",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1/4 cup",
+      "name": "sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "3 cups",
+      "name": "whole milk",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "4",
+      "name": "egg yolks, beaten",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "2 tsp",
+      "name": "vanilla extract",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1 loaf (1 pound)",
+      "name": "frozen pound cake, thawed",
+      "type": "Misc"
+    },
+    {
+      "quantity": "3/4 cup",
+      "name": "raspberry jam",
+      "type": "Misc"
+    },
+    {
+      "quantity": "3 cups",
+      "name": "fresh or frozen unsweetened raspberries, thawed and drained",
+      "type": "Produce"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "whipping cream",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "name": "confectionary sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "2 tablespoons",
+      "name": "sliced almonds, toasted",
+      "type": "Baking"
+    },
+    {
+      "quantity": "",
+      "name": "fresh raspberries, optional",
+      "type": "Produce"
+    }
+  ],
+  "steps": [
+    "In a heavy 2-qt saucepan, combine the cornstarch adn sugar; gradullay stir in milk.",
+    "Bring to a boil over medium heat; stirring constantly.",
+    "Boil 2 minutes; remove from heat.",
+    "Gradually stir 1/2 cup into egg yolks; return all to pan an mix well.",
+    "Cook and stir over medium-low hear for 15 minutes or until mixture thickens slightly and coats the back of a spoon (do not boil).",
+    "Stir in vanilla.",
+    "Pour into a bowl and cover with waxed paper.",
+    "Chill 20 minutes.",
+    "Meanwhile, cut cake into 3/4-in. slices; spread with jam.",
+    "Cut each slice into thirds; place with jam side up in a 3-qt. trifle dish or a deap salad bowl.",
+    "Cover with berries.",
+    "Top with custard.",
+    "Cover and chill overnight.",
+    "Just before serving, whip cream and sugar until stiff; spread over custard.",
+    "Garnish with almonds and berries if desired."
+  ],
+  "timers": [
+    0,
+    0,
+    2,
+    0,
+    15,
+    0,
+    0,
+    20,
+    0,
+    0,
+    0,
+    0,
+    480,
+    0,
+    0
+  ],
+  "yield": "10-12 servings",
+  "imageURL": ""
+}
