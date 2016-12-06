@@ -1,0 +1,45 @@
+{
+  "name": "Spicy Tamarind Potatoes",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "name": "4 potatoes (large, peeled and cut into even-sized cubes)",
+      "type": "Produce"
+    },
+    {
+      "quantity": "2",
+      "name": "cloves garlic (minced)",
+      "type": "Produce"
+    },
+    {
+      "quantity": "3",
+      "name": "cloves shallots (the green part)",
+      "type": "Produce"
+    },
+    {
+      "quantity": "1",
+      "name": "chillies",
+      "type": "Produce"
+    }
+  ],
+  "steps": [
+    "In a skillet, panfry potato cubes in oil till they are half cooked.",
+    "Add in garlic, shallots and chilli and continue frying till the shallots have softened and the potato cubes have crisp edges.",
+    "Make sure your flame is not too big.",
+    "Just before dishing them out, pour in the tamarind mixture and stirfry to coat all the potato cubes evenly.",
+    "Allow the gravy to bubble and thicken slightly.",
+    "Taste test - you may like to add some salt.",
+    "Sprinkle finely chopped shallots."
+  ],
+  "timers": [
+    0,
+    30,
+    0,
+    0,
+    10,
+    0,
+    0
+  ],
+  "yield": "",
+  "image": ""
+}
