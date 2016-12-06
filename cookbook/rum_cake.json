@@ -1,0 +1,115 @@
+{
+  "name": "Rum Cake",
+  "ingredients": [
+    {
+      "quantity": "1 package (18 oz)",
+      "name": "yellow cake mix",
+      "type": "Misc"
+    },
+    {
+      "quantity": "1 package (3.5 oz)",
+      "name": "instant vanilla pudding mix",
+      "type": "Misc"
+    },
+    {
+      "quantity": "4",
+      "name": "whole eggs",
+      "type": "Dairy"
+    },
+    {
+      "quantity": "1/2 cup",
+      "name": "cold water",
+      "type": "Drinks"
+    },
+    {
+      "quantity": "1/2 cup",
+      "name": "canola oil",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1/2 cup",
+      "name": "dark rum",
+      "type": "Drinks"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "chopped pecans",
+      "type": "Baking"
+    },
+    {
+      "quantity": "pinch",
+      "name": "brown sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "1-1/2 sticks",
+      "name": "butter",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1/4 cup",
+      "name": "water",
+      "type": "Drinks"
+    },
+    {
+      "quantity": "1-1/2 cup",
+      "name": "sugar",
+      "type": "Baking"
+    },
+    {
+      "quantity": "3/4 cup",
+      "name": "dark rum",
+      "type": "Drinks"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 325°F.",
+    "Grease and flour a bundt cake pan.",
+    "Sprinkle nuts over bottom of pan.",
+    "If desired, sprinkle a couple of tablespoons of brown sugar over the nuts.",
+    "Mix all cake ingredients together.",
+    "Pour batter into pan over nuts.",
+    "Smooth out until the top is even.",
+    "Bake for 1 hour, or a little less if the pan is black.",
+    "Do not overbake!",
+    "While cake has ten minutes to go, make the glaze.",
+    "Melt butter in saucepan.",
+    "Stir in water and sugar.",
+    "Boil for 4 to 5 minutes, stirring constantly.",
+    "Turn off flame and pour in rum.",
+    "Stir to combine and reheat for 30 seconds",
+    "Remove cake from oven.",
+    "Immediately drizzle 1/3 of the glaze on the bottom (top) of the cake.",
+    "Allow to sit for five minutes.",
+    "Invert the cake onto a serving plate.",
+    "Prick surface a hundred times with a fork (gently, please).",
+    "Slowly drizzle remaining rum glaze all over the top of the cake, allowing it to drip down the sides.",
+    "Cool to room temperature before serving to ensure glaze has soaked in."
+  ],
+  "timers": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    60,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0.5,
+    0,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0
+  ],
+  "yield": "",
+  "image": ""
+}
